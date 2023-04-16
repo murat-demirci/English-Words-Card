@@ -1,0 +1,19 @@
+{
+  "kelimeler": [
+    {"id": 1, "kelime": "ambitious", "anlami": "hırslı, azimli"},
+    {"id": 2, "kelime": "arrogant", "anlami": "kibirli, küstah"},
+    {"id": 3, "kelime": "assiduous", "anlami": "özenli, çalışkan"},
+    {"id": 4, "kelime": "augment", "anlami": "artırmak, çoğaltmak"},
+    {"id": 5, "kelime": "belligerent", "anlami": "düşmanca, saldırgan"},
+    {"id": 6, "kelime": "capricious", "anlami": "değişken, kararsız"},
+    {"id": 7, "kelime": "complaisant", "anlami": "iyi niyetli, uysal"},
+    {"id": 8, "kelime": "congenial", "anlami": "uyumlu, hoşgörülü"},
+    {"id": 9, "kelime": "diligent", "anlami": "çalışkan, gayretli"},
+    {"id": 10, "kelime": "docile", "anlami": "uyumlu, itaatkar"},
+    {"id": 11, "kelime": "eccentric", "anlami": "tuhaf, garip"},
+    {"id": 12, "kelime": "egalitarian", "anlami": "eşitlikçi, adaletli"},
+    {"id": 13, "kelime": "eminent", "anlami": "ünlü, tanınmış"},
+    {"id": 14, "kelime": "enigmatic", "anlami": "gizemli, anlaşılması güç"},
+    {"id": 15, "kelime": "ephemeral", "anlami": "geçici, fani"}
+  ]
+}
