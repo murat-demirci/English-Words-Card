@@ -7,6 +7,11 @@
   $ cd src/data
   $ json-server --watch db.json
 ```
+Or
+
+```bash
+  $ npm run start-all
+```
 
 2. Then, to run the project, execute the following command in the root directory: 
 
